@@ -1,0 +1,156 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level" itemID="4f922b21-000005dc" linkageExportForAS="true" linkageClassName="com.ludumdare.Level" lastModified="1335060212" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="Level">
+      <layers>
+        <DOMLayer name="Fade" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Fade" name="fade" selected="true" centerPoint3DX="328.95" centerPoint3DY="178">
+                  <matrix>
+                    <Matrix a="1.16998291015625" d="1.16998291015625" tx="-405.95" ty="-281.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="628.1" y="393.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Characters" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Other" name="friend" centerPoint3DX="316" centerPoint3DY="309.5">
+                  <matrix>
+                    <Matrix tx="315.7" ty="202.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="107.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF87D5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Player" name="player" centerPoint3DX="315.8" centerPoint3DY="292.2">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="315.8" ty="202.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-90"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF4245"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Objects" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Flower" name="flower" centerPoint3DX="419.05" centerPoint3DY="151">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="402.9" ty="161.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-10.55" y="-16"/>
+                  </transformationPoint>
+                  <color>
+                    <Color/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Note" name="note" centerPoint3DX="342.6" centerPoint3DY="316.1">
+                  <matrix>
+                    <Matrix tx="332.95" ty="306.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.65" y="9.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="HeartCarving" name="carving" centerPoint3DX="441.8" centerPoint3DY="203.55">
+                  <matrix>
+                    <Matrix tx="433.2" ty="195.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.6" y="8.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="World" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!7000 6190|6665 6270!6665 6270|6690 6630!6690 6630|7115 6550!7115 6550|7000 6190"/>
+                    <Edge cubics="!7000 6190(;7000,6190 6665,6270 6665,6270q7000 6190 6665 6270);"/>
+                    <Edge cubics="!6665 6270(;6665,6270 6690,6630 6690,6630q6665 6270 6690 6630);"/>
+                    <Edge cubics="!6690 6630(;6690,6630 7115,6550 7115,6550q6690 6630 7115 6550);"/>
+                    <Edge cubics="!7115 6550(;7115,6550 7000,6190 7000,6190q7115 6550 7000 6190);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="World" name="world" centerPoint3DX="315.5" centerPoint3DY="203.45">
+                  <matrix>
+                    <Matrix tx="220.5" ty="108.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95" y="95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="storyText" selected="true" width="636" height="27.55">
+                  <matrix>
+                    <Matrix tx="1.95" ty="410.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Lorem Ipsum</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="21" bitmapSize="420" face="Helvetica*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="fence.swf" name="fence" centerPoint3DX="207.2" centerPoint3DY="203.1">
+                  <matrix>
+                    <Matrix a="0.57568359375" d="0.57568359375" tx="180.75" ty="131.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="45.95" y="125"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

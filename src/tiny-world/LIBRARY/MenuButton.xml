@@ -1,0 +1,98 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuButton" itemID="4f936d83-0000031d" linkageExportForAS="true" linkageClassName="MenuButton" symbolType="button" lastModified="1335067553" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="MenuButton" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" selected="true" width="164" height="47">
+                  <matrix>
+                    <Matrix tx="-83" ty="-22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MENU</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="47" bitmapSize="940" face="Raleway*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" selected="true" width="164" height="47">
+                  <matrix>
+                    <Matrix tx="-83" ty="-22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MENU</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="47" bitmapSize="940" face="Raleway*" fillColor="#F6A4B8"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" selected="true" width="164" height="47">
+                  <matrix>
+                    <Matrix tx="-83" ty="-22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MENU</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="47" bitmapSize="940" face="Raleway*" fillColor="#F6A4B8"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" width="164" height="47">
+                  <matrix>
+                    <Matrix tx="-83" ty="-22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MENU</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="47" bitmapSize="940" face="Raleway*" fillColor="#F6A4B8"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!10603 462S2|-9396 462!-9396 462|-9396 -538!-9396 -538|10603 -538!10603 -538|10603 462"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

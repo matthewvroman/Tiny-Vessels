@@ -1,0 +1,152 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="World" itemID="4f922a96-000005d8" linkageExportForAS="true" linkageClassName="com.ludumdare.World" lastModified="1335060070" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="World">
+      <layers>
+        <DOMLayer name="Actions" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Fade" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="World" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="world.swf" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.564056396484375" d="0.5587158203125" tx="-2.35" ty="-107.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="371.95" y="358.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="her-world.swf" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.564056396484375" d="0.5587158203125" tx="-2.35" ty="-85.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="371.95" y="358.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.531173706054688" d="0.531173706054688" tx="96.05" ty="99"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#AFDDF3" ratio="1"/>
+                        <GradientEntry color="#000099" ratio="1"/>
+                        <GradientEntry color="#02029A" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!8003 -4103[10523 -1583 10523 1980!10523 1980[10523 5543 8003 8062!8003 8062[5484 10582 1921 10582!1921 10582[-1642 10582 -4161 8062!-4161 8062[-6681 5543 -6681 1980!-6681 1980[-6681 -1583 -4161 -4103!-4161 -4103[-1642 -6622 1921 -6622
+!1921 -6622[5484 -6622 8003 -4103"/>
+                    <Edge cubics="!1921 -6622(;4296,-6622 6323,-5783 8003,-4103q1921 -6622Q5484 -6622q8003 -4103);"/>
+                    <Edge cubics="!10523 1980(;10523,4355 9683,6382 8003,8062q10523 1980Q10523 5543q8003 8062);"/>
+                    <Edge cubics="!8003 8062(8003,8062;6323,9742 4296,10582 1921,10582q8003 8062Q5484 10582q1921 10582);"/>
+                    <Edge cubics="!8003 -4103(;9683,-2423 10523,-395 10523,1980q8003 -4103Q10523 -1583q10523 1980);"/>
+                    <Edge cubics="!-4161 8062(-4161,8062;-5840,6382 -6681,4355 -6681,1980q-4161 8062Q-6681 5543q-6681 1980);"/>
+                    <Edge cubics="!-6681 1980(;-6681,-395 -5840,-2423 -4161,-4103q-6681 1980Q-6681 -1583q-4161 -4103);"/>
+                    <Edge cubics="!1921 10582(;-454,10582 -2481,9742 -4161,8062q1921 10582Q-1642 10582q-4161 8062);"/>
+                    <Edge cubics="!-4161 -4103(;-2481,-5783 -454,-6622 1921,-6622q-4161 -4103Q-1642 -6622q1921 -6622);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Clouds" centerPoint3DX="111.25" centerPoint3DY="-127.75">
+                  <matrix>
+                    <Matrix tx="-85.3" ty="-202.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.5" y="295.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Clouds" centerPoint3DX="248.05" centerPoint3DY="-40.8">
+                  <matrix>
+                    <Matrix a="1.346435546875" b="1.34638977050781" c="-1.34638977050781" d="1.346435546875" tx="225.05" ty="-546.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.35" y="295.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.531173706054688" d="0.531173706054688" tx="96.05" ty="99"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#F6A4B8" ratio="1"/>
+                        <GradientEntry color="#000099" ratio="1"/>
+                        <GradientEntry color="#02029A" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!8003 -4103[10523 -1583 10523 1980!10523 1980[10523 5543 8003 8062!8003 8062[5484 10582 1921 10582!1921 10582[-1642 10582 -4161 8062!-4161 8062[-6681 5543 -6681 1980!-6681 1980[-6681 -1583 -4161 -4103!-4161 -4103[-1642 -6622 1921 -6622
+!1921 -6622[5484 -6622 8003 -4103"/>
+                    <Edge cubics="!1921 -6622(;4296,-6622 6323,-5783 8003,-4103q1921 -6622Q5484 -6622q8003 -4103);"/>
+                    <Edge cubics="!10523 1980(;10523,4355 9683,6382 8003,8062q10523 1980Q10523 5543q8003 8062);"/>
+                    <Edge cubics="!8003 8062(8003,8062;6323,9742 4296,10582 1921,10582q8003 8062Q5484 10582q1921 10582);"/>
+                    <Edge cubics="!8003 -4103(;9683,-2423 10523,-395 10523,1980q8003 -4103Q10523 -1583q10523 1980);"/>
+                    <Edge cubics="!-4161 8062(-4161,8062;-5840,6382 -6681,4355 -6681,1980q-4161 8062Q-6681 5543q-6681 1980);"/>
+                    <Edge cubics="!-6681 1980(;-6681,-395 -5840,-2423 -4161,-4103q-6681 1980Q-6681 -1583q-4161 -4103);"/>
+                    <Edge cubics="!1921 10582(;-454,10582 -2481,9742 -4161,8062q1921 10582Q-1642 10582q-4161 8062);"/>
+                    <Edge cubics="!-4161 -4103(;-2481,-5783 -454,-6622 1921,-6622q-4161 -4103Q-1642 -6622q1921 -6622);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Clouds" centerPoint3DX="111.25" centerPoint3DY="-127.75">
+                  <matrix>
+                    <Matrix tx="-85.3" ty="-202.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.5" y="295.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Clouds" centerPoint3DX="248.05" centerPoint3DY="-40.8">
+                  <matrix>
+                    <Matrix a="1.346435546875" b="1.34637451171875" c="-1.34637451171875" d="1.346435546875" tx="225.05" ty="-546.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.35" y="295.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

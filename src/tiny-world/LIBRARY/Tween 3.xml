@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 3" itemID="4f928699-000003a9" symbolType="graphic" lastModified="1335002777">
+  <timeline>
+    <DOMTimeline name="Tween 3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="FlashAICB Assets/FlashAICB Assets">
+                  <matrix>
+                    <Matrix tx="-196.5" ty="-74.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="196.5" y="309.7"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

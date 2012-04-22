@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 5" itemID="4f935f61-00000513" symbolType="graphic" lastModified="1335058918">
+  <timeline>
+    <DOMTimeline name="Tween 5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="295.9" ty="173.45"/>
+                  </matrix>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="World" name="world" selected="true" centerPoint3DX="-19.65" centerPoint3DY="-30.3">
+                      <matrix>
+                        <Matrix a="-0.999526977539062" d="-0.999526977539062" tx="75.4" ty="64.95"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="95.1" y="95.3"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMSymbolInstance libraryItemName="Note" name="note" selected="true" centerPoint3DX="-46.7" centerPoint3DY="-142.65">
+                      <matrix>
+                        <Matrix a="-0.999526977539062" d="-0.999526977539062" tx="-37.05" ty="-132.9"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="9.65" y="9.75"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

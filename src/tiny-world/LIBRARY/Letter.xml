@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Letter" itemID="4f935bcd-000004dd" linkageExportForAS="true" linkageClassName="Letter" lastModified="1335058078">
+  <timeline>
+    <DOMTimeline name="Letter">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!7402 0|7402 9082!7402 9082|0 9082!0 9082|0 0!0 0|7402 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText width="312.1" height="287.05" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="28" ty="8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hey!&#xD;I think I finally found a way off this world.. for both of us. I know I've said that before but this time you have to trust me. I know times have been tough these past few months but we can work through it! There's more than one outcome. Neither of us will have to die.&#xD;&#xD;Find me as soon as you get this. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="21" bitmapSize="420" face="AshleyScriptMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText width="107.05" height="80" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="268.1" ty="358"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>-X</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="75" bitmapSize="1500" face="AshleyScriptMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

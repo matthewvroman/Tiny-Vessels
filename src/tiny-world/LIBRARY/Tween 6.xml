@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 6" itemID="4f9361bf-000005fe" symbolType="graphic" lastModified="1335058879">
+  <timeline>
+    <DOMTimeline name="Tween 6">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="World" name="world" centerPoint3DX="19.6" centerPoint3DY="30.05">
+                  <matrix>
+                    <Matrix tx="-75.4" ty="-64.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95" y="95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Note" name="note" centerPoint3DX="46.7" centerPoint3DY="142.7">
+                  <matrix>
+                    <Matrix tx="37.05" ty="132.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.65" y="9.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 4" itemID="4f935f61-00000511" symbolType="graphic" lastModified="1335058915" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Tween 4" currentFrame="179" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;320&lt;/guideline&gt;&lt;guideline direction="h"&gt;198&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="179" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="179" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="89" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="89" duration="90" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Letter" centerPoint3DX="247.05" centerPoint3DY="198">
+                  <matrix>
+                    <Matrix a="0.113494873046875" b="-0.022064208984375" c="0.022064208984375" d="0.113494873046875" tx="220.65" ty="176.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="188.05" y="226.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Letter" centerPoint3DX="439.25" centerPoint3DY="442.05">
+                  <matrix>
+                    <Matrix a="1.89178466796875" b="-0.367782592773438" c="0.367782592773438" d="1.89178466796875" ty="81.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="188.05" y="226.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="89" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="89" duration="91" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

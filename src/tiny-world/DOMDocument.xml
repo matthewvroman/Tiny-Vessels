@@ -1,0 +1,79 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#AFDDF3" width="640" height="440" frameRate="30" currentTimeline="1" xflVersion="2.1" creatorInfo="Adobe Flash Professional CS5.5" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 11.5 build 325" majorVersion="11" minorVersion="5" buildNumber="325" rulerVisible="true" viewAngle3D="62.4108334222142" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true">
+     <folders>
+          <DOMFolderItem name="FlashAICB Assets" itemID="4f92863c-00000384"/>
+          <DOMFolderItem name="Sound" itemID="4f932f7b-000004b3" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Helvetica" itemID="4f926d67-00000303" font="Helvetica" size="0" id="1" sourceLastImported="1334996327" embedRanges="1|2|3|4"/>
+          <DOMFontItem name="Raleway" itemID="4f93667e-0000061c" font="Raleway-Thin" size="0" id="2" sourceLastImported="1335060094" embedRanges="1|2|3|4"/>
+     </fonts>
+     <media>
+          <DOMSoundItem name="Sound/Darkest Child.mp3" itemID="4f932f91-000004b4" linkageExportForAS="true" linkageClassName="BckgrndMusic" sourceExternalFilepath="/Users/matthewvroman/Desktop/ld48/src/tiny-world/LIBRARY/Sound/Darkest Child.mp3" sourceLastImported="1335046021" sourcePlatform="macintosh" externalFileSize="9551329" href="Sound/Darkest Child.mp3" soundDataHRef="M 4 1335044239.dat" format="44kHz 16bit Stereo" sampleCount="10524672" exportFormat="1" exportBits="10"/>
+          <DOMBitmapItem name="FlashAICB Assets/FlashAICB Assets" itemID="4f92863c-00000387" sourceLastImported="1335002684" sourcePlatform="macintosh" originalCompressionType="lossless" quality="50" href="FlashAICB Assets/FlashAICB Assets" bitmapDataHRef="M 1 1335002684.dat" frameRight="7860" frameBottom="2980"/>
+          <DOMSoundItem name="Sound/jump.wav" itemID="4f932f91-000004b5" linkageExportForAS="true" linkageClassName="sfxJump" sourceExternalFilepath="/Users/matthewvroman/Desktop/ld48/src/tiny-world/LIBRARY/Sound/jump.wav" sourceLastImported="1335046021" sourcePlatform="macintosh" externalFileSize="18464" href="Sound/jump.wav" soundDataHRef="M 2 1335043834.dat" format="44kHz 16bit Mono" sampleCount="9210"/>
+          <DOMSoundItem name="Sound/task-completed-02.wav" itemID="4f9354eb-000004db" linkageExportForAS="true" linkageClassName="sfxCompleted" sourceExternalFilepath="./LIBRARY/Sound/task-completed-02.wav" sourceLastImported="1335055594" sourcePlatform="macintosh" externalFileSize="20256" href="Sound/task-completed-02.wav" soundDataHRef="M 5 1335055590.dat" format="44kHz 16bit Mono" sampleCount="10106"/>
+     </media>
+     <symbols>
+          <Include href="Button.xml" itemIcon="0" itemID="4f922cac-000005e6" lastModified="1335061891"/>
+          <Include href="CloudLayer.xml" loadImmediate="false" itemID="4f928729-000003c9" lastModified="1335002921"/>
+          <Include href="Clouds.xml" loadImmediate="false" itemID="4f92864f-0000038e" lastModified="1335003382"/>
+          <Include href="fence.swf.xml" itemIcon="1" loadImmediate="false" itemID="4f927a6e-00000345" lastModified="1334999662"/>
+          <Include href="flower.swf.xml" itemIcon="1" loadImmediate="false" itemID="4f9270f3-00000305" lastModified="1334997235"/>
+          <Include href="Fade.xml" loadImmediate="false" itemID="4f933300-000004ce" lastModified="1335046928"/>
+          <Include href="Flower.xml" loadImmediate="false" itemID="4f927113-0000030a" lastModified="1334997367"/>
+          <Include href="her-world.swf.xml" itemIcon="1" loadImmediate="false" itemID="4f92f742-00000486" lastModified="1335031633"/>
+          <Include href="HeartCarving.xml" loadImmediate="false" itemID="4f9283cf-0000037e" lastModified="1335002063"/>
+          <Include href="Letter.xml" itemID="4f935bcd-000004dd" lastModified="1335058078"/>
+          <Include href="Level.xml" itemID="4f922b21-000005dc" lastModified="1335060212"/>
+          <Include href="Menu.xml" itemID="4f922b8d-000005e2" lastModified="1335067557"/>
+          <Include href="MenuButton.xml" itemIcon="0" itemID="4f936d83-0000031d" lastModified="1335067553"/>
+          <Include href="Note.xml" loadImmediate="false" itemID="4f927929-00000341" lastModified="1334999337"/>
+          <Include href="Other.xml" loadImmediate="false" itemID="4f92f4ec-0000041f" lastModified="1335031020"/>
+          <Include href="Player.xml" itemID="4f92272a-000002fc" lastModified="1334988854"/>
+          <Include href="PlayerModel.xml" loadImmediate="false" itemID="4f925033-0000067d" lastModified="1334988851"/>
+          <Include href="Tween 1.xml" itemIcon="1" loadImmediate="false" itemID="4f928697-000003a3" lastModified="1335002775"/>
+          <Include href="Tween 2.xml" itemIcon="1" loadImmediate="false" itemID="4f928697-000003a6" lastModified="1335002775"/>
+          <Include href="Tween 3.xml" itemIcon="1" loadImmediate="false" itemID="4f928699-000003a9" lastModified="1335002777"/>
+          <Include href="Tween 4.xml" itemIcon="1" loadImmediate="false" itemID="4f935f61-00000511" lastModified="1335058915"/>
+          <Include href="Tween 5.xml" itemIcon="1" loadImmediate="false" itemID="4f935f61-00000513" lastModified="1335058918"/>
+          <Include href="Tween 6.xml" itemIcon="1" loadImmediate="false" itemID="4f9361bf-000005fe" lastModified="1335058879"/>
+          <Include href="world.swf.xml" itemIcon="1" loadImmediate="false" itemID="4f927a6e-00000347" lastModified="1334999662"/>
+          <Include href="World.xml" itemID="4f922a96-000005d8" lastModified="1335060070"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings platform="macintosh"/>
+     <publishHistory>
+          <PublishItem publishSize="977306" publishTime="1335067569"/>
+          <PublishItem publishSize="977304" publishTime="1335067528"/>
+          <PublishItem publishSize="977306" publishTime="1335067499"/>
+          <PublishItem publishSize="977302" publishTime="1335067381"/>
+          <PublishItem publishSize="977313" publishTime="1335067260"/>
+          <PublishItem publishSize="977325" publishTime="1335067080"/>
+          <PublishItem publishSize="977313" publishTime="1335063584"/>
+          <PublishItem publishSize="977301" publishTime="1335063440"/>
+          <PublishItem publishSize="977295" publishTime="1335063340"/>
+          <PublishItem publishSize="977288" publishTime="1335063237"/>
+          <PublishItem publishSize="977292" publishTime="1335063212"/>
+          <PublishItem publishSize="977229" publishTime="1335062942"/>
+          <PublishItem publishSize="977189" publishTime="1335062798"/>
+          <PublishItem publishSize="977210" publishTime="1335062619"/>
+          <PublishItem publishSize="977168" publishTime="1335062369"/>
+          <PublishItem publishSize="971971" publishTime="1335062352"/>
+          <PublishItem publishSize="977126" publishTime="1335062239"/>
+          <PublishItem publishSize="977125" publishTime="1335062211"/>
+          <PublishItem publishSize="977115" publishTime="1335062115"/>
+          <PublishItem publishSize="977166" publishTime="1335062086"/>
+     </publishHistory>
+</DOMDocument>

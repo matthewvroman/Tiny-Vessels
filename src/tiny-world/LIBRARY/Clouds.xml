@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Clouds" itemID="4f92864f-0000038e" lastModified="1335003382" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Clouds" currentFrame="359">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="179" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="CloudLayer">
+                  <matrix>
+                    <Matrix tx="-52.45" ty="66.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.05" y="216.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" duration="91" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="CloudLayer" selected="true">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="395.65" ty="499.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.05" y="216.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="270" duration="89" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="CloudLayer" selected="true">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-44.9" ty="506.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.05" y="216.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="359" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="CloudLayer">
+                  <matrix>
+                    <Matrix tx="-52.45" ty="66.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.05" y="216.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

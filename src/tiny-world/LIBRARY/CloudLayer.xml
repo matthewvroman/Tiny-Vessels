@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="CloudLayer" itemID="4f928729-000003c9" lastModified="1335002921">
+  <timeline>
+    <DOMTimeline name="CloudLayer">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 1" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.62542724609375" d="0.62542724609375" tx="237.75" ty="46.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tween 1" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.0993804931640625" b="0.37091064453125" c="-0.37091064453125" d="-0.0993804931640625" tx="400.95" ty="281.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tween 1" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.332550048828125" b="-0.191986083984375" c="0.191986083984375" d="-0.332550048828125" tx="183.95" ty="370.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tween 1" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="-0.5819091796875" c="0.5819091796875" d="0" tx="43.35" ty="223.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Tween 1" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.52587890625e-05" b="0.38397216796875" c="-0.38397216796875" d="1.52587890625e-05" tx="419.35" ty="199.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
