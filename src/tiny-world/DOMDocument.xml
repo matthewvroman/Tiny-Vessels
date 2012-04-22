@@ -4,8 +4,8 @@
           <DOMFolderItem name="Sound" itemID="4f932f7b-000004b3" isExpanded="true"/>
      </folders>
      <fonts>
-          <DOMFontItem name="Helvetica" itemID="4f926d67-00000303" font="Helvetica" size="0" id="1" sourceLastImported="1334996327" embedRanges="1|2|3|4"/>
           <DOMFontItem name="Raleway" itemID="4f93667e-0000061c" font="Raleway-Thin" size="0" id="2" sourceLastImported="1335060094" embedRanges="1|2|3|4"/>
+          <DOMFontItem name="Helvetica" itemID="4f926d67-00000303" font="Helvetica" size="0" id="1" sourceLastImported="1334996327" embedRanges="1|2|3|4"/>
      </fonts>
      <media>
           <DOMSoundItem name="Sound/Darkest Child.mp3" itemID="4f932f91-000004b4" linkageExportForAS="true" linkageClassName="BckgrndMusic" sourceExternalFilepath="/Users/matthewvroman/Desktop/ld48/src/tiny-world/LIBRARY/Sound/Darkest Child.mp3" sourceLastImported="1335046021" sourcePlatform="macintosh" externalFileSize="9551329" href="Sound/Darkest Child.mp3" soundDataHRef="M 4 1335044239.dat" format="44kHz 16bit Stereo" sampleCount="10524672" exportFormat="1" exportBits="10"/>
@@ -55,6 +55,10 @@
      </timelines>
      <PrinterSettings platform="macintosh"/>
      <publishHistory>
+          <PublishItem publishSize="977482" publishTime="1335126550"/>
+          <PublishItem publishSize="978763" publishTime="1335126546" publishDebug="true"/>
+          <PublishItem publishSize="977479" publishTime="1335126519"/>
+          <PublishItem publishSize="978761" publishTime="1335126506" publishDebug="true"/>
           <PublishItem publishSize="977306" publishTime="1335067569"/>
           <PublishItem publishSize="977304" publishTime="1335067528"/>
           <PublishItem publishSize="977306" publishTime="1335067499"/>
@@ -71,9 +75,5 @@
           <PublishItem publishSize="977210" publishTime="1335062619"/>
           <PublishItem publishSize="977168" publishTime="1335062369"/>
           <PublishItem publishSize="971971" publishTime="1335062352"/>
-          <PublishItem publishSize="977126" publishTime="1335062239"/>
-          <PublishItem publishSize="977125" publishTime="1335062211"/>
-          <PublishItem publishSize="977115" publishTime="1335062115"/>
-          <PublishItem publishSize="977166" publishTime="1335062086"/>
      </publishHistory>
 </DOMDocument>

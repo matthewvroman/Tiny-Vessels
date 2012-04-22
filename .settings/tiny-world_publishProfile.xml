@@ -161,7 +161,7 @@
     <Animated>0</Animated>
     <MatchMovieDim>1</MatchMovieDim>
     <Loop>1</Loop>
-    <LoopCount></LoopCount>
+    <LoopCount>0</LoopCount>
     <OptimizeColors>1</OptimizeColors>
     <Interlace>0</Interlace>
     <Smooth>1</Smooth>
